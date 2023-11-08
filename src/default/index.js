@@ -16,6 +16,9 @@ function DefaultUI (){
                         <li>
                             <Link to="/cart">Cart ({cart.length})</Link>
                         </li>
+                        <li>
+                            <Link to="/login">Login</Link>
+                        </li>
                     </ul>
                 </header>
                 <main className="main">
